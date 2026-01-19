@@ -1,2 +1,2 @@
-User-agent: 4dv5sdv51sdv6s1b6s1fbdf1bf6n16d8eh146g5n1f65t84hyr1nrhe81h6m1th3g1ea5th15yj15h30m5311yj3rjk1yi5466545661rjr31j2d32fged6r2
+User-agent: *
 Disallow:
